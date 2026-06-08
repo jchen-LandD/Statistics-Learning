@@ -9,7 +9,7 @@
 The website is hosted online and ready to use!
 
 👉 VISIT THE WEBSITE:
-   https://YOUR-USERNAME.github.io/statistics-learning
+   https://jchen-LandD.github.io/statistics-learning
 
    (Replace YOUR-USERNAME with the actual GitHub username)
 
@@ -129,7 +129,7 @@ After completing this course, you will understand:
 ================================================================================
 
 1. Open the website URL in your browser
-   https://YOUR-USERNAME.github.io/statistics-learning
+   https://jchen-LandD.github.io/statistics-learning
 
 2. Choose your language:
    • Chinese (中文版) or English (English Version)
