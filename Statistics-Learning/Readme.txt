@@ -9,7 +9,7 @@
 The website is hosted online and ready to use!
 
 👉 VISIT THE WEBSITE:
-   https://jchen-landd.github.io/Statistics-Learning
+   https://jchen-landd.github.io/Statistics-Learning/
 
    (Replace YOUR-USERNAME with the actual GitHub username)
 
@@ -292,17 +292,17 @@ To share with others, simply send them:
 
 📧 Email:
    "Check out this free Statistics Learning website!"
-   https://jchen-landd.github.io/Statistics-Learning
+   https://jchen-landd.github.io/Statistics-Learning/
 
 💬 Social Media:
    "Learn statistics interactively! 📊
-   https://jchen-landd.github.io/Statistics-Learning"
+   https://jchen-landd.github.io/Statistics-Learning/"
 
 📱 QR Code:
    Scan to visit the website (if you generate a QR code from the URL)
 
 👥 In person:
-   "Visit this website: https://jchen-landd.github.io/Statistics-Learning"
+   "Visit this website: https://jchen-landd.github.io/Statistics-Learning/"
 
 
 📈 UPDATING THE WEBSITE
@@ -362,6 +362,6 @@ Happy learning! 🎓
 
 ================================================================================
 For the latest version and updates, visit:
-https://jchen-landd.github.io/Statistics-Learning
+https://jchen-landd.github.io/Statistics-Learning/
 ================================================================================
 
