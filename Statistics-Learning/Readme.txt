@@ -292,17 +292,17 @@ To share with others, simply send them:
 
 📧 Email:
    "Check out this free Statistics Learning website!"
-   https://YOUR-USERNAME.github.io/statistics-learning
+   https://jchen-LandD.github.io/statistics-learning
 
 💬 Social Media:
    "Learn statistics interactively! 📊
-   https://YOUR-USERNAME.github.io/statistics-learning"
+   https://jchen-LandD.github.io/statistics-learning"
 
 📱 QR Code:
    Scan to visit the website (if you generate a QR code from the URL)
 
 👥 In person:
-   "Visit this website: https://YOUR-USERNAME.github.io/statistics-learning"
+   "Visit this website: https://jchen-LandD.github.io/statistics-learning"
 
 
 📈 UPDATING THE WEBSITE
@@ -362,6 +362,6 @@ Happy learning! 🎓
 
 ================================================================================
 For the latest version and updates, visit:
-https://YOUR-USERNAME.github.io/statistics-learning
+https://jchen-LandD.github.io/statistics-learning
 ================================================================================
 
