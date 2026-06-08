@@ -129,7 +129,7 @@ After completing this course, you will understand:
 ================================================================================
 
 1. Open the website URL in your browser
-   https://jchen-landd.github.io/Statistics-Learning
+   https://jchen-landd.github.io/Statistics-Learning/
 
 2. Choose your language:
    • Chinese (中文版) or English (English Version)
